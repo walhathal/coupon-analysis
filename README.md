@@ -102,6 +102,7 @@ Rejected Coupons (Y=0):
 # Link to Jupyter Notebook
 
 Click here to view the notebook
+https://github.com/walhathal/coupon-analysis/blob/main/coupon-analysis.ipynb
 
 # Author
 
